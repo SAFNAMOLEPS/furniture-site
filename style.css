@@ -1,0 +1,18 @@
+@media screen and (max-width:400px){
+    *{
+        font-size: smaller;
+        margin: 0px;
+        padding: 0px;
+    }
+    .navbar{
+        background-color: brown;
+    }
+     img{
+        width: 400px;
+        height: 40px;
+    }
+    
+    .carousel-item  img{
+        height: 30px;
+    }
+}
